@@ -4,7 +4,7 @@ Web app for **TripForms**, a travel booking dynamic form builder.
 - **Admins:** drag-and-drop form builder, publishing and versions, responses, analytics, admin panel.
 - **Customers:** trip catalog, multi-page booking forms, My bookings.
 
-Backend repo: **[tripforms-backend](https://github.com/Thilak832/tripforms-backend)**
+Backend repo: **[tripforms-back-end](https://github.com/Thilak832/tripforms-back-end)**
 
 **Stack:** React 18 · Vite · Redux Toolkit · React Router · Tailwind CSS · @hello-pangea/dnd · Recharts · Axios
 
