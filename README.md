@@ -1,10 +1,16 @@
-# TripForms: Frontend (React)
+# Dynamic Form Builder: Frontend (React)
 
-Web app for **TripForms**, a travel booking dynamic form builder.
+Web app for a **Google Forms-style dynamic form builder**: the form editor, the respondent view, and the responses views (summary charts, per question, per respondent, export).
+
+> **Status: re-scoping in progress.** This repository was renamed from `tripforms-front-end`.
+> - The code on `main` is still the earlier **TripForms** travel-booking version, described below.
+> - It is being converted to the new scope. The plan (TPP v2.0) and wireframes are in the [backend repo `docs/`](https://github.com/Thilak832/dynamic-form-builder-backend/tree/main/docs).
+
+Backend repo: **[dynamic-form-builder-backend](https://github.com/Thilak832/dynamic-form-builder-backend)**
+
+**Current code (TripForms):**
 - **Admins:** drag-and-drop form builder, publishing and versions, responses, analytics, admin panel.
 - **Customers:** trip catalog, multi-page booking forms, My bookings.
-
-Backend repo: **[tripforms-back-end](https://github.com/Thilak832/tripforms-back-end)**
 
 **Stack:** React 18 · Vite · Redux Toolkit · React Router · Tailwind CSS · @hello-pangea/dnd · Recharts · Axios
 
